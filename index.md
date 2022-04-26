@@ -1,4 +1,4 @@
-## Welcome to Tres amigos Website
+# Welcome to Tres amigos!
 
 You might have came to this website to learn more about the tres amigos car cleaning service, well your in  luck!
 
