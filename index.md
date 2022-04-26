@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Tres amigos Website
 
-You can use the [editor on GitHub](https://github.com/Warrye/The-tres-Amigos-car-Service/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You might have came to this website to learn more about the tres amigos car cleaning service, well your in  luck!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a
 
 ```markdown
 Syntax highlighted code block
