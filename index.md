@@ -4,7 +4,7 @@ You might have came to this website to learn more about the tres amigos car clea
 This website tells you all about Tress amigos Car service.
 
 <p Align="center">
-<img src="/carwash.jpeg">
+<img src="https://github.com/Warrye/The-tres-Amigos-car-Service/blob/gh-pages/carwash.jpeg">
 </p>
 
 ## Prices
